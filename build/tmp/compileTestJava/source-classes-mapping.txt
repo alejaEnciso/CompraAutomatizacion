@@ -1,0 +1,4 @@
+stepDefinitions/AutomatizaStepDefinitions.java
+ stepDefinitions.AutomatizaStepDefinitions
+runners/AutomatizaRunner.java
+ runners.AutomatizaRunner
